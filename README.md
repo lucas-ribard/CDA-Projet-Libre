@@ -1,13 +1,16 @@
 # CDA-Projet-Libre
 
-Projet de fin d'année
+Projet de fin d'année pour le Bachelor IT 2 - Spécialisation Développeur Logiciel
 
-![The San Juan Mountains are beautiful!](https://t4.ftcdn.net/jpg/05/55/26/57/360_F_555265740_RpWv8oSh6YAmtzhn7FqgLeEgambbJV7X.jpg)
+## Moniteur Reseaux
 
-## Idéation
+![Capture d’écran du 2025-02-13 12-22-55](https://github.com/user-attachments/assets/37407386-82d8-4543-ae93-4bad7cb26344)
+
+
+### Idéation
 
 [documentation](/Ideation.md)
 
-## Execution 
+### Execution 
 
 > do this to run this project
