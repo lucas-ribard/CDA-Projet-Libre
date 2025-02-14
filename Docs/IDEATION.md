@@ -1,12 +1,15 @@
 # Part 1 : Ideation
 ## Project: Simplified Network Monitoring Tool
 
-### Project Overview
-An intuitive network monitoring tool designed to offer a **visually-driven** approach to packet analysis and network performance tracking. The application features:
-**Real-Time Packet Visualization**: Easily view and analyze network traffic through dynamic, graphical representations. 
-**Hotspot Status Monitoring**: Keep track of Wi-Fi hotspot performance and connectivity at a glance.  
-**Access Control Monitoring**: Simplify the supervision of restricted websites.  
-This tool is built to **empower both novice and experienced** users to diagnose, analyze, and resolve network issues efficiently with an engaging and user-friendly interface.
+### Project Overview  
+An intuitive network monitoring tool designed to offer a **visually-driven** approach to packet analysis and network performance tracking.  
+The application features:  
+
+**Real-Time Packet Visualization**: Easily view and analyze network traffic through dynamic, graphical representations.   
+**Hotspot Status Monitoring**: Keep track of Wi-Fi hotspot performance and connectivity at a glance.    
+**Access Control Monitoring**: Simplify the supervision of restricted websites.    
+
+This tool is built to **empower both novice and experienced** users to diagnose, analyze, and resolve network issues efficiently with an engaging and user-friendly interface.  
  
 ---
  
@@ -63,15 +66,14 @@ An intelligent database is expected to be integrated into the system, designed t
 - **Performance:** Compiling of the python source code in native C++ with the help of Cython for far greater performances.
 
 #### Back-end
-**Python:** Python was chosen for its simplicity and extensive library ecosystem.  
-  Letting us develop powerful tool relatively quickly.
+**Python:** Python was chosen for its simplicity and extensive library ecosystem, letting us develop powerful tool relatively quickly and spending more time on making the interface intuitive.
 
 A server will run on the user computer, opening a website on the local network, this way the tool will be accesible on desktop and on smartphone.
 
 #### Front-end
-**PWA :**
+**[PWA](https://fr.wikipedia.org/wiki/Progressive_web_app)** : Cross-platform, simple, effective, easy maintenance.
 
-**React :** For the development of a modern and responsive user interface Accessible on both computer and smartphone.
+**React :**
 
 ### Planning
 - **Gantt Chart / Roadmap:** A detailed plan will be established to organize the various phases of the project (brainstorming, development, testing, etc.).
