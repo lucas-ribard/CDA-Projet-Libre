@@ -9,7 +9,7 @@ Projet de fin d'année pour le Bachelor IT 2 - Spécialisation Développeur Logi
 
 ### Idéation
 
-[documentation](/Ideation.md)
+[documentation](/Docs/IDEATION.md)
 
 ### Execution 
 

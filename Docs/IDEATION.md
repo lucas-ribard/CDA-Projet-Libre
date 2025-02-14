@@ -27,6 +27,10 @@ In the field of computer security, network monitoring is essential to ensure the
 - Rapid detection of failures.
 - Automatic notifications in the event of a failure or anomaly.
 
+#### System Logging
+- Logs of attacks and failures.
+- This database can be used to record, analyze, and for machine learning purposes.
+
 ### Expected Results
 - **Accessible Interface:** A program capable of monitoring the network and presenting information in a way that is understandable, even for novices.
 - **Effective Alert System:** Real-time detection of suspicious activity and failures, with notifications enabling a rapid response.
@@ -41,6 +45,7 @@ In the field of computer security, network monitoring is essential to ensure the
 
 #### Tools and Libraries
 - **Monitoring:** Use of proven tools such as Wireshark and libraries like Pyshark for packet capture and analysis.
+- **Performance:** Compiling of the python source code in native C++ with the help of Cython for far greater performances.
 
 #### Back-end
 - **Python:** Chosen for its simplicity and extensive library ecosystem.
